@@ -14,4 +14,4 @@ UPDATE:
 Feel free to contribute and send pull requests!!!
 however, I will not be focusing ANY efforts on this anymore. 
  
- **Using the GNU GPL Liscence**
+ **Using the GNU GPL v2 Liscence**
