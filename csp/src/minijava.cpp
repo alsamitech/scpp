@@ -7,6 +7,12 @@ namespace mry{
 
 class MYJAVACLASS {
   public:
+    MYJAVACLASS() {
+      // Constructor
+    }
+  // Public stuff
+  protected:
+  private:
 };
 
 
